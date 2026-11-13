@@ -1,5 +1,15 @@
-.directory
+# Build
+build/
 *.o
 *.out
 *.exe
+
+# Editor / system
+.directory
 .DS_Store
+*~
+*.swp
+
+# IDE
+.vscode/
+.idea/
